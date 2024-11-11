@@ -35,6 +35,9 @@ Here’s an overview of the analyses performed in this project:
 - **Satisfaction by Age Band Among Married Employees**: Finds the age band with the highest job satisfaction among married employees.
 
 ---
+📱 **Contact**:
+For any inquiries or suggestions, feel free to contact me:
+Email: sanaakrarroubi@gmail.com
 
 ## ⚙️ Installation Instructions
 
@@ -42,11 +45,9 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/SanaaKrarroubi/Employee-Trends-Analysis.git
-
 ---
 
-Contact
-For any inquiries or suggestions, feel free to contact me:
-Email: sanaakrarroubi@gmail.com
+
+
 
 
