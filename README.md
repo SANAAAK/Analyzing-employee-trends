@@ -42,3 +42,11 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/SanaaKrarroubi/Employee-Trends-Analysis.git
+
+---
+
+Contact
+For any inquiries or suggestions, feel free to contact me:
+Email: sanaakrarroubi@gmail.com
+
+
